@@ -16,7 +16,7 @@ Github : https://github.com/miaarosie
 >개발 기간 : 2022.10.06 ~ 22.11.08
 
 >기술 스택 : 
->Java8 / Oracle / HTML5 / Javascript / jQuery
+>Java SE 1.8 / Oracle / HTML5 / Javascript / jQuery
 >
 
 >[프로젝트 상세설명]
