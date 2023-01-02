@@ -45,7 +45,7 @@
 ---
 ![ERD](https://user-images.githubusercontent.com/114273783/210206115-b6dd1627-8e09-4858-9791-474aee376e07.png)
 
-### 5. 담당역할
+### 5. 담당역할 :information_desk_person:
 ---
 + 경조사 게시판 
   + 첨부파일 게시글 등록 / 조회 / 수정 / 삭제
